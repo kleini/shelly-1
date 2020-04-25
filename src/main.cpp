@@ -1,5 +1,5 @@
 #define FW_NAME "Shelly 1"
-#define FW_VERSION "0.2.0"
+#define FW_VERSION "1.0.0"
 
 #include "Homie.h"
 #include "RelayNode.hpp"
